@@ -3,5 +3,5 @@
 pragma solidity ^0.8.17;
 
 contract HelloWorld {
-    string public greet = "Hello World!";
+    string public greet = "Hello World!"; //STATE VARIABLE. CAN BE ACCESSED ANYWHERE INSIDE AND OUTSIDE THE CONTRACT
 }
